@@ -15,4 +15,9 @@ public class Libro {
     private String editorial;
     private int fechaPublicacion;
     private String autor;
+
+    // Aprender para que sirve esto...
+    public int miSuperId(){
+        return -1;
+    }
 }
